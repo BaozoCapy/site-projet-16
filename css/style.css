@@ -1,0 +1,50 @@
+
+
+.container {
+    background-color: white;
+    padding: 0;
+}
+
+.gg-navbar {
+    background-color: black;
+    font-family: serif;
+    box-shadow: 1px 1px 3px rgba(255, 255, 255, .54);
+    z-index: 1;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.gg-navbar .nav-link {
+    border-bottom: 1px solid transparent;
+    transition: padding-bottom 0.4s ease-in-out, border-color 0.3s ease;
+}
+
+.gg-navbar .nav-link:hover {
+    padding-bottom: 20px;
+    border-bottom-color: white;
+}
+
+.btn-order {
+    color: white;
+    border-color: white;
+    transition: 0.5s;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn-order:hover,
+.btn-order:active {
+    color: black;
+    background-color: white;
+    ;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
