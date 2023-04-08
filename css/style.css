@@ -60,3 +60,13 @@ h5 {
 #contact {
     scroll-margin-top: 75px;
 }
+
+iframe {
+    width: 560px; 
+    height: 315px;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
