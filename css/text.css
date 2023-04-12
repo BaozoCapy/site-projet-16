@@ -1,6 +1,10 @@
 .container {
-    background-color: white;
+    background-color: #EDD4CD;
     padding: 0;
+}
+
+body {
+    background-color: #EDD4CD;
 }
 
 .gg-navbar {
@@ -57,8 +61,8 @@ h5 {
 }
 
 iframe {
-    width: 560px;
-    height: 315px;
+    width: 1000px;
+    height: 615px;
 }
 
 .video {

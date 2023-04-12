@@ -1,10 +1,14 @@
 .container {
-    background-color: white;
+    background-color: #EDD4CD;
     padding: 0;
 }
 
+body {
+    background-color: #EDD4CD;
+}
+
 .gg-navbar {
-    background-color: black;
+    background-color: rgba(97, 92, 92, 0.54);
     font-family: serif;
     box-shadow: 1px 1px 3px rgba(255, 255, 255, .54);
     z-index: 1;
@@ -60,8 +64,8 @@ h5 {
 }
 
 iframe {
-    width: 560px;
-    height: 315px;
+    width: 1000px;
+    height: 615px;
 }
 
 .video {
