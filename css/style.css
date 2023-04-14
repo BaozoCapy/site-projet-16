@@ -42,6 +42,7 @@ body {
 
 h2 {
     text-align: center;
+    font-weight: bold;
 }
 
 p {
@@ -50,6 +51,7 @@ p {
 
 h5 {
     text-align: center;
+    font-weight: bold;
 }
 
 #us {
